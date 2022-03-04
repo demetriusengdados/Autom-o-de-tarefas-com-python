@@ -1,0 +1,52 @@
+Welcome to Python.org;https://www.python.org/
+;https://computerworld.com.br/carreira/python-10-motivos-para-aprender-a-linguagem-em-2019/
+;https://www.hostgator.com.br/blog/10-motivos-para-voce-aprender-python/
+;https://tutorial.djangogirls.org/pt/python_installation/
+;https://www.treinaweb.com.br/blog/como-comecar-com-python/
+Python – Wikipédia, a enciclopédia livre;https://pt.wikipedia.org/wiki/Python
+Python Brasil;https://python.org.br/
+Guia Completo de Python: Aprenda Python do Básico ao ...;https://www.devmedia.com.br/guia/python/37024
+Cursos de Python - Programação | Alura;https://www.alura.com.br/cursos-online-programacao/python
+Python Brasil 2019;https://2019.pythonbrasil.org.br/
+python - Docker Hub;https://hub.docker.com/_/python
+Python · GitHub;https://github.com/python
+Curso Python #02 - Para que serve o Python? - YouTube;https://www.youtube.com/watch?v=Mp0vhMDI7fA
+Python Courses & Tutorials | Codecademy;https://www.codecademy.com/catalog/language/python
+Introduction to Python - W3Schools;https://www.w3schools.com/python/python_intro.asp
+Python para Zumbis com Fernando Masanori;https://www.pycursos.com/python-para-zumbis/
+PyPI · The Python Package Index;https://pypi.org/
+Python Fundamentos para Análise de Dados;https://www.datascienceacademy.com.br/course?courseid=python-fundamentos
+Real Python: Python Tutorials;https://realpython.com/
+Introdução ao Python - Learn | Microsoft Docs;https://docs.microsoft.com/pt-br/learn/modules/intro-to-python/
+Learn Python Tutorials | Kaggle;https://www.kaggle.com/learn/python
+Python Pro: Curso da linguagem de programação Python ...;https://www.python.pro.br/
+Python Courses, Training, and Tutorials | Learn Python Online ...;https://www.udemy.com/topic/python/
+Pense em Python: Pense Como um Cientista da Computação ...;https://www.amazon.com.br/Pense-Python-Como-Cientista-Computa%C3%A7%C3%A3o/dp/8575225081
+Programming for Everybody (Getting Started with Python ...;https://www.coursera.org/learn/python
+Python: como trabalhar com dados nessa linguagem de ...;https://www.tecmundo.com.br/software/204244-python-trabalhar-dados-linguagem-programacao.htm
+Livro Python em Promoção nas americanas;https://www.americanas.com.br/busca/livro-python
+Linguagem de programação Python 2 chega ao fim da vida ...;https://olhardigital.com.br/2020/04/23/noticias/linguagem-de-programacao-python-2-chega-ao-fim-da-vida-com-versao-2-7-18/
+Python & Flowers Fragrância Desodorante Corporal 100 ml ...;https://www.mahogany.com.br/fragrancia-desodorante-python---flowers-100-ml/p
+Baixar PyCharm: o IDE Python da JetBrains para ...;https://www.jetbrains.com/pt-br/pycharm/download/
+Introduction to Python | DataCamp;https://www.datacamp.com/courses/intro-to-python-for-data-science
+Python Tutorial - Tutorialspoint;https://www.tutorialspoint.com/python/index.htm
+Python – IBM Developer;https://developer.ibm.com/br/languages/python/
+Newest 'python' Questions - Stack Overflow;https://stackoverflow.com/questions/tagged/python
+Python Engenharia: Home;http://www.pythonengenharia.com.br/
+Learn Python - Free Interactive Python Tutorial;https://www.learnpython.org/
+CS50's Web Programming with Python and JavaScript | edX;https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript
+MicroPython - Python for microcontrollers;https://micropython.org/
+Python Tutor - Visualize Python, Java, C, C++, JavaScript ...;http://pythontutor.com/
+Visualize Python, Java, JavaScript, C, C++ ... - Python Tutor;http://pythontutor.com/visualize.html
+Learn Python Programming - Programiz;https://www.programiz.com/python-programming
+Python - Visual Studio Marketplace;https://marketplace.visualstudio.com/items?itemName=ms-python.python
+Python Tutorials and Online Training Courses | Pluralsight;https://www.pluralsight.com/browse/software-development/python
+O que é Python, para que serve e por que aprender?;https://kenzie.com.br/blog/o-que-e-python/
+Python 71 em promoção | Comprar na Casas Bahia;https://www.casasbahia.com.br/python-71/b
+Python - O básico da sintaxe - DevFuria;http://devfuria.com.br/python/sintaxe-basica/
+Python Sul 2021;https://pythonsul.org/
+Django: The Web framework for perfectionists with deadlines;https://www.djangoproject.com/
+Python Mode for Processing;https://py.processing.org/
+Pense em Python | PensePython2e - GitHub Pages;https://penseallen.github.io/PensePython2e/
+pandas - Python Data Analysis Library;https://pandas.pydata.org/
+CodingBat Python;https://codingbat.com/python
