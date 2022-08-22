@@ -4,6 +4,8 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email.mime.base import MIMEBase
 from email import encoders
+from corpo_email import corpo_email
+
 
 fromaddr = "criandorobosempython@gmail.com"
 toaddr = "criandorobosempython@gmail.com, gabrielcasemiro68@gmail.com"
@@ -16,11 +18,12 @@ msg['From'] = fromaddr
 
 msg['To'] = toaddr
 
-msg['Subject'] = "Venha conhecer nosso restaurante!!!"
+msg['Subject'] = "Video Aulas Grátis!!"
 
-body = """Inauguração do nosso restaurante essa noite, venha conhecer."""
 
-msg.attach(MIMEText(body, 'plain'))
+part1 = MIMEText(corpo_email, "html")
+
+msg.attach(part1)
 
 #Servidor SMTP
 s = smtplib.SMTP('smtp.gmail.com', 587)

@@ -16,11 +16,26 @@ msg['From'] = fromaddr
 
 msg['To'] = toaddr
 
-msg['Subject'] = "Venha conhecer nosso restaurante!!!"
+msg['Subject'] = "Video Aulas Grátis!!"
 
-body = """Inauguração do nosso restaurante essa noite, venha conhecer."""
 
-msg.attach(MIMEText(body, 'plain'))
+html = """
+<html>
+	<body>
+		<p>Oi,<br>
+		Como vai você?<br>
+		<a href="https://www.udemy.com">Video Aulas Gratuitas</a>
+		Muitas aulas para assistir.
+
+
+		</p>
+	</body>
+<html>
+"""
+
+part1 = MIMEText(html, "html")
+
+msg.attach(part1)
 
 #Servidor SMTP
 s = smtplib.SMTP('smtp.gmail.com', 587)

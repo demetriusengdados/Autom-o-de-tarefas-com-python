@@ -22,6 +22,21 @@ body = """Inauguração do nosso restaurante essa noite, venha conhecer."""
 
 msg.attach(MIMEText(body, 'plain'))
 
+#Anexo
+filename="panfleto.pdf"
+anexo = open("panfleto.pdf","rb")
+
+p = MIMEBase('application', 'octet-stream')
+
+p.set_payload((anexo).read())
+
+# encode em base64
+encoders.encode_base64(p)
+
+p.add_header('Content-Disposition', "attachment; filename= %s" % filename)
+
+msg.attach(p)
+
 #Servidor SMTP
 s = smtplib.SMTP('smtp.gmail.com', 587)
 
