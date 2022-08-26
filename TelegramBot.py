@@ -49,3 +49,7 @@ class TelegramBot:
         grupo_alvo = groups[int(escolha)]
 
         return grupo_alvo
+
+    def get_members_of_group(self, target_group):
+        all_participants = self.client.get_participants(target_group, aggressive=True)
+        return all_participants
