@@ -1,0 +1,12 @@
+Tipo,Valor,Forma de Pagamento
+Mercado,85,Cartão
+Remédio,48,Dinheiro
+Celular,149,Cartão
+Lanches,35,Cheque
+Livros,65,Cheque
+Passagem,430,Cartão
+Aluguel,650,Dinheiro
+Teatro,50,Cartão
+Roupas,220,Cartão
+Nova Linha 1,220,Cartão
+Petshop,100,Cartão
