@@ -9,8 +9,4 @@ for i in range(2,5):
 
 planilha['B5'] = "=SUM(B2:B4)"
 
-planilha['A7'] = "ALUNOS"
-planilha.merge_cells("A7:B7")
-planilha.unmerge_cells("A7:B7")
-
 wb.save(filename="nomes.xlsx")
